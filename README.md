@@ -1,1 +1,1 @@
--This project is about calculating your life in weeks
+-This repo consists of all my projects.
